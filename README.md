@@ -1,7 +1,7 @@
-# Ant Colony Optimizer
+# Lem-in
 
 ## DESCRIPTION
-- Ant Colony Optimizer project is a program that simulates an ant farm, where ants have to find the quickest path from one room to another. The program reads a file describing the ant farm and displays the moves the ants make to reach the exit.
+- Lem-in project is a program that simulates an ant farm, where ants have to find the quickest path from one room to another. The program reads a file describing the ant farm and displays the moves the ants make to reach the exit.
 - Data Structure & Algorithm using Golang.
 
 - [Explanation](https://medium.com/@jamierobertdawson/lem-in-finding-all-the-paths-and-deciding-which-are-worth-it-2503dffb893)
@@ -71,4 +71,9 @@ Here is an example of an input file :
 6-5
 
 ## Snapshots
+
+![Screenshot 2024-08-05 020814](https://github.com/user-attachments/assets/0472b50b-0e40-48e4-83c9-e8ee710b8978)
+
+![Screenshot 2024-08-05 020749](https://github.com/user-attachments/assets/2ff46466-650e-4d5a-9019-ca71cb1f857d)
+
 
